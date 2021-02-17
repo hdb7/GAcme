@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme id="acme" name="Acme" version="1.0">
+    <author/>
+    <_description>Acme theme for Gedit</_description>
+    <!--Main Background colour-->
+    <style background="#fffeeb" foreground="#000000" name="text"/>
+    <!--Comment-->
+    <style foreground="#000000" italic="true" bold="true" name="def:comment"/>
+    <!--Visual selection-->
+    <style foreground="#424242" background="#eeeea7" name="selection"/>
+    <!--String-->
+    <style foreground="#000000" italic="true" name="def:string"/>	
+    <!--Bracket Match-->
+    <style name="bracket-match"  background="#e6e6ed" bold="true"/>
+    <style name="bracket-mismatch"  background="#e6e6ed" underline="true"/>
+    <!--Line Number-->
+    <style background="#FFFEEB" foreground="#000000" name="line-numbers"/>
+    <!--Cursor Line and Cursor-->
+    <style name="current-line"  background="#effeec"/>
+    <style name="cursor" foreground="#000000"/>
+</style-scheme>
+
+
